@@ -1,0 +1,2 @@
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo.UWP\MasterDetailPageDemo.UWP.csproj;x86
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo.csproj;neutral

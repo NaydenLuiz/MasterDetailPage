@@ -1,0 +1,17 @@
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\MasterDetailPageDemo.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\MasterDetailPageDemo.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\obj\Debug\MasterDetailPageDemo.csprojResolveAssemblyReference.cache
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\obj\Debug\MasterDetailPageDemo.dll
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\obj\Debug\MasterDetailPageDemo.pdb
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\obj\Debug\MasterDetailPageDemo.HelloPage.xaml.g.cs
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\obj\Debug\MasterDetailPageDemo.MenuPage.xaml.g.cs
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\obj\Debug\MasterDetailPageDemo.dll.mdb
+C:\Users\nayden\Documents\LABTECH\LAB03\MasterDetailPageDemo\MasterDetailPageDemo\MasterDetailPageDemo\bin\Debug\MasterDetailPageDemo.dll.mdb
